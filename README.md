@@ -9,4 +9,4 @@ This is a simple Java console application that helps manage tasks based on prior
 4. View all remaining tasks.
 
 ## Why I Made This
-I created this program to practice using the Heap data structure and to make a simple tool that organizes tasks efficiently. It helps me understand how heaps work while providing a basic utility for task management. This program is a beginner project and is open for improvements. Feel free to fork and modify!
+I made this application to solve a common problem: managing tasks efficiently based on their importance. Often, it’s easy to get overwhelmed by multiple tasks, and I wanted a simple tool to prioritize them and ensure the most urgent ones are addressed first.
